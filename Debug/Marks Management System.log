@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Dion\Desktop\projects\C++\Marks Management system\Marks Management System\Source.cpp(141,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dion\Desktop\projects\C++\Marks Management system\Marks Management System\Source.cpp(143,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dion\Desktop\projects\C++\Marks Management system\Marks Management System\Source.cpp(211,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dion\Desktop\projects\C++\Marks Management system\Marks Management System\Source.cpp(213,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dion\Desktop\projects\C++\Marks Management system\Marks Management System\Source.cpp(273,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dion\Desktop\projects\C++\Marks Management system\Marks Management System\Source.cpp(275,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Marks Management System.vcxproj -> C:\Users\Dion\Desktop\projects\C++\Marks Management system\Marks Management System\Debug\Marks Management System.exe

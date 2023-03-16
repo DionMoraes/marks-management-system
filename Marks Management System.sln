@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Marks Management System", "Marks Management System.vcxproj", "{5E8E1885-4B06-4B2F-98F4-FB5FA88051D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E8E1885-4B06-4B2F-98F4-FB5FA88051D1}.Debug|x64.ActiveCfg = Debug|x64
+		{5E8E1885-4B06-4B2F-98F4-FB5FA88051D1}.Debug|x64.Build.0 = Debug|x64
+		{5E8E1885-4B06-4B2F-98F4-FB5FA88051D1}.Debug|x86.ActiveCfg = Debug|Win32
+		{5E8E1885-4B06-4B2F-98F4-FB5FA88051D1}.Debug|x86.Build.0 = Debug|Win32
+		{5E8E1885-4B06-4B2F-98F4-FB5FA88051D1}.Release|x64.ActiveCfg = Release|x64
+		{5E8E1885-4B06-4B2F-98F4-FB5FA88051D1}.Release|x64.Build.0 = Release|x64
+		{5E8E1885-4B06-4B2F-98F4-FB5FA88051D1}.Release|x86.ActiveCfg = Release|Win32
+		{5E8E1885-4B06-4B2F-98F4-FB5FA88051D1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2D03AA1-F50A-4B9F-89BA-21A9E6AC2C14}
+	EndGlobalSection
+EndGlobal
