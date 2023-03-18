@@ -34,9 +34,6 @@ Built using an interactive menu driven C++ program, our project is founded on th
 - Facilitating communication between educators and parents: The report card generator can help facilitate communication between educators and parents by providing a clear and concise summary of a student's progress.
 
 
-## UI
-
-
 
 
 ## Note
