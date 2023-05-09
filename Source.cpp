@@ -1,33 +1,22 @@
 #include <iostream>
-
 #include <string>
-
 #include <vector>
-
 #include <iomanip>
 
 using namespace std;
 
 class Student {
-
     string name;
-
     int rollno;
 
 public:
-
     Student(string n, int r) {
-
         name = n;
-
         rollno = r;
-
     }
 
     void display() const {
-
         cout << "Name : " << name << " roll Number : " << rollno << endl << endl;
-
     }
 
     void setName(string n) {
